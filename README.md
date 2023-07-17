@@ -8,7 +8,7 @@ Report
 
 # Objective 
 
-create an annual sales report for 2022. So that can understand their customers and grow
+Create an annual sales report for 2022. So that can understand their customers and grow
 more sales in 2023
 
 --------------------------------------------------------------------------------------------
