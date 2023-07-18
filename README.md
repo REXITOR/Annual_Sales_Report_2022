@@ -1,12 +1,4 @@
-Data Cleaning \
-Data Processing \
-Data Analysis \
-Data Visualization \
-Report 
-
---------------------------------------------------------------------------------------------
-
-# Objective 
+# Objective
 
 Create an annual sales report for 2022. So that can understand their customers and grow
 more sales in 2023
