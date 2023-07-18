@@ -13,7 +13,7 @@ more sales in 2023
 
 --------------------------------------------------------------------------------------------
 
-## Sample Questions 
+## KPI 
 
 1. Compare the sales and orders using single chart 
 2. Which month got the highest sales and orders? 
@@ -26,7 +26,7 @@ more sales in 2023
 
 --------------------------------------------------------------------------------------------
 
-### Sample Insights
+### Insights
 
 - Woman are more likely to buy compared to man (~65%) 
 - Maharashtra, Karnataka and Utter Pradesh are the top 3 status (~35%) 
