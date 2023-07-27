@@ -1,12 +1,4 @@
-Data Cleaning \
-Data Processing \
-Data Analysis \
-Data Visualization \
-Report 
-
---------------------------------------------------------------------------------------------
-
-# Objective 
+# Objective
 
 Create an annual sales report for 2022. So that can understand their customers and grow
 more sales in 2023
@@ -39,3 +31,5 @@ more sales in 2023
 
 Target woman customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing
 **ads/offers/coupons** available on Amazon, Flipkart and Myntra
+
+![Annual-Sales-Report-2022 Preview](https://github.com/REXITOR/Annual-sales-report-2022/blob/master/Project%20preview.png)
